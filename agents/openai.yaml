@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习力抖音运营"
+  short_description: "把学习力产品洞察转成抖音内容、发布检查与数据复盘闭环"
+  default_prompt: "使用 $learning-power-douyin-ops-cn，为我的学习力产品制定抖音选题、口播脚本和复盘方案。"
